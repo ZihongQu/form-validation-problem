@@ -1,4 +1,5 @@
 import React from "react";
+import "./FormSection.css";
 
 const FormSection = () => {
   const emailValidate = () => {
